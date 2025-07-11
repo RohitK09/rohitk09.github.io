@@ -31,3 +31,14 @@ Car speed = [1,2,3]
 
 First to understand it, we need to draw it out . 
 
+Target (20)
+|
+|   Car A (7,5):  ----------->
+|   Car B (6,6):  -------------->
+|
+0
+
+Time Axis →
+[Car B]------------------>
+   [Car A]------------------->
+      (Car B catches up to Car A before target)
