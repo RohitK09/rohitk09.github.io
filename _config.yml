@@ -9,11 +9,15 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Rohit Katyal"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Rohit Katyal"
 description              : &description "personal description"
+<<<<<<< HEAD
 url                      : https://rohitk09.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+=======
+url                      : https://rohitk09.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+>>>>>>> aa83433 (update with updated url)
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RohitK09/rohitk09.github.io"
 
@@ -23,13 +27,12 @@ repository               : "RohitK09/rohitk09.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Rohit"
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              :  https://www.linkedin.com/in/rohitkatyal/
+  email            : "rohitkatyal@outlook.com" 
 
   # Academic websites
   academia         : # URL
