@@ -13,11 +13,7 @@ title                    : "Rohit Katyal"
 title_separator          : "-"
 name                     : &name "Rohit Katyal"
 description              : &description "personal description"
-<<<<<<< HEAD
-url                      : https://rohitk09.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-=======
 url                      : https://rohitk09.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
->>>>>>> aa83433 (update with updated url)
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RohitK09/rohitk09.github.io"
 
