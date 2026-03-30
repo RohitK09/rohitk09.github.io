@@ -2,7 +2,7 @@
 title: "Course or Teaching Role Title"
 collection: teaching
 type: "Course type"   # e.g. "Undergraduate course", "Graduate seminar", "Workshop", "TA"
-permalink: /teaching/YYYY-term-course-name
+permalink: /teaching/example-teaching  # TODO: Change to /teaching/YYYY-term-course-name
 venue: "University Name, Department"
 date: 2024-01-01
 location: "City, Country"

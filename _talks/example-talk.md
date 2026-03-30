@@ -2,7 +2,7 @@
 title: "Your Talk Title Here"
 collection: talks
 type: "Talk"        # Use: "Talk", "Tutorial", "Poster", "Keynote", "Invited Talk"
-permalink: /talks/YYYY-MM-DD-short-talk-title
+permalink: /talks/example-talk  # TODO: Change to /talks/YYYY-MM-DD-short-title
 venue: "Conference or Institution Name"
 date: 2024-01-01
 location: "City, Country"

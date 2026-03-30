@@ -1,6 +1,6 @@
 ---
 title: "Car Fleet"
-collection: datastructures
+collection: teaching
 permalink: /datastructures/stacks/carfleet
 date: 2025-07-08
 ---

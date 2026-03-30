@@ -2,7 +2,7 @@
 title: "Your Paper Title Here"
 collection: publications
 category: manuscripts  # Use: manuscripts (journal), conferences, or books
-permalink: /publication/YYYY-MM-DD-short-paper-title
+permalink: /publication/example-paper  # TODO: Change to /publication/YYYY-MM-DD-short-title
 excerpt: 'A one-sentence summary of what this paper is about.'
 date: 2024-01-01
 venue: 'Journal or Conference Name'
