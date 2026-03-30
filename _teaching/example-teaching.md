@@ -6,6 +6,7 @@ permalink: /teaching/example-teaching  # TODO: Change to /teaching/YYYY-term-cou
 venue: "University Name, Department"
 date: 2024-01-01
 location: "City, Country"
+excerpt: ""  # suppress body from appearing as excerpt on listing page
 ---
 
 <!-- TODO: Replace this file with your actual teaching experience.

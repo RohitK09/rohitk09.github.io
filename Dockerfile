@@ -27,9 +27,9 @@ COPY Gemfile ./
 
 
 # Install bundler and dependencies
-RUN gem install connection_pool:2.5.0
-RUN gem install bundler:2.3.26
-RUN bundle install
+# Bundler 4.x has a known CGI bug with Ruby 3.x — pin to 2.5.x
+RUN gem install bundler:2.5.23
+RUN bundle _2.5.23_ install
 
 # Command to serve the Jekyll site
 CMD ["jekyll", "serve", "-H", "0.0.0.0", "-w"]

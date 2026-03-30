@@ -6,6 +6,7 @@ permalink: /talks/example-talk  # TODO: Change to /talks/YYYY-MM-DD-short-title
 venue: "Conference or Institution Name"
 date: 2024-01-01
 location: "City, Country"
+excerpt: ""  # suppress body from appearing as excerpt on listing page
 ---
 
 <!-- TODO: Replace this file with your actual talks.
