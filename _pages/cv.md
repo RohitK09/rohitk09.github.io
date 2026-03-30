@@ -9,56 +9,53 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- TODO: Replace all sections below with your actual CV content.
+     Publications, Talks, and Teaching sections are auto-generated from their
+     respective collection files (_publications/, _talks/, _teaching/).
+     All other sections (Education, Work, Skills, etc.) must be edited here directly. -->
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- TODO: List your degrees in reverse chronological order, e.g.:
+* Ph.D in [Field], [University], [Year]
+* M.S. in [Field], [University], [Year]
+* B.S. in [Field], [University], [Year]
+-->
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<!-- TODO: List positions in reverse chronological order, e.g.:
+* [Year]-Present: [Title]
+  * [Institution]
+  * Duties: [Description]
+-->
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<!-- TODO: List your technical and other skills, e.g.:
+* Programming: Python, R, MATLAB
+* Tools: Git, Docker, LaTeX
+* Languages: English (fluent), [other]
+-->
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+<!-- TODO: Add committee memberships, reviewing roles, mentoring, outreach, etc. -->

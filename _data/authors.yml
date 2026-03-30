@@ -1,18 +1,11 @@
-# Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+# Co-author profiles used for multi-author posts.
+# To attribute a post to a co-author, add `author: AuthorName` in the post's front matter.
+# Example entry:
+#
+# Jane Doe:
+#   name        : "Jane Doe"
+#   uri         : "https://janedoe.com"
+#   email       : "jane@example.com"
+#   bio         : "Brief bio for Jane."
+#   avatar      : "jane-photo.jpg"   # place image in /images/
+#   twitter     : "janedoe"
